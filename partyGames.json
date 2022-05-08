@@ -25,18 +25,6 @@
          "GameCreator":"Created by CAH LLC and John Dillon"
       },
       {
-         "GameRating":"Long",
-         "GamePlayers":"2-8 Players",
-         "GameID":2,
-         "GameImage":"https://raw.githubusercontent.com/TinNguyenIT315/JSONProjectsIT315/master/cards.jpeg",
-         "GamePrice":"$20.99",
-         "GameName":"Monopoly",
-         "GameTime":"1-3 Hours",
-         "GameWebsite":"https://monopoly.hasbro.com/en-us",
-         "GameDescritpion":"The Monopoly Discover board game offers fun teaching tools for families. It features a double-sided gameboard with 2 levels of play, so you can decide which level is right for the family! One side focuses on counting and matching, recommended for kids ages 4-5. Flip the board over for more advanced play, focusing on reading and simple math, recommended for kids ages 6 and up. Gameplay in each level uses its own set of Monopoly money and cards, as well as rules. Inspired by Monopoly classic gameplay -- after all, every billionaire starts somewhere! The game is a great choice for a family game night, and makes a fun gift for kids ages 4 and up. The Hasbro, Hasbro Gaming, Parker Brothers, and Monopoly names and logos, the distinctive design of the gameboard, the four corner squares, the Mr. Monopoly name and character, as well as each of the distinctive elements of the board and playing pieces are trademarks of Hasbro for its property trading game and game equipment. ",
-         "GameCreator":"Created by CAH LLC and John Dillon"
-      },
-      {
          "GameRating":"Fast-Paced",
          "GamePlayers":"2-7 Players",
          "GameID":3,
